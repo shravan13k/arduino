@@ -1,0 +1,4 @@
+This arduino code class is for controlling a stepper motor using an 'A4988' stepper motor driver.
+It has various fumctions like assigning pins, step size, direction, speed of the motor etc.
+It also solves the problem of time lag while the ardiuino is running huge chunks of code alongwith
+this particular set of code, as it does not use any delay() function.
